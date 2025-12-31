@@ -1,6 +1,6 @@
 # GitHub Profile Explorer 🔍
 
-Aplicação front-end que permite buscar perfis públicos do GitHub e visualizar informações relevantes de forma simples, rápida e visualmente profissional.
+Aplicação front-end que permite buscar perfis públicos do GitHub e visualizar informações relevantes de forma simples e rápida.
 
 ## 🚀 Deploy
 git-hub-profile-explorer-five.vercel.app
